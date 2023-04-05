@@ -38,7 +38,7 @@
   
 #### ⛄️ Contact to me 
 <a href="https://velog.io/@haizel"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
-<a href="Shyoeun5000@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-flat&logo=gmail&logoColor=white"/></a>  
+<a href="mailto:shyoeun5000@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-flat&logo=gmail&logoColor=white"/></a>  
   
 <br />
 <br />
