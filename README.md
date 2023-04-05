@@ -23,6 +23,7 @@
 
 <br />
 <br />
+<br />    
   
 ## ⚒️ Tools 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
@@ -35,17 +36,20 @@
   
 <br />
 <br />  
+<br />  
   
 ## ⛄️ Contact to me 
 <a href="https://velog.io/@haizel"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
 <a href="mailto:shyoeun5000@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-flat&logo=gmail&logoColor=white"/></a>  
   
+<br />  
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=haizellatte&show_icons=true" height="115"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haizellatte&layout=compact&theme=white" height="115">
-
+<img src="https://github-readme-stats.vercel.app/api?username=haizellatte&show_icons=true" height="140"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haizellatte&layout=compact&theme=white" height="140">
+  
+<br />  
 <br />
 <br />
 
