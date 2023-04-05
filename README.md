@@ -2,12 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Haizel's%20%20Playground&animation=twinkling&fontAlign=50&fontColor=fff&fontSize=70)
 
- 🚀 Welcome to my Playground ! <br />
- I'm heading for a **Frontend Engineering** 🪐 <br />
-
+  ### 🚀 Welcome to my Playground ! <br />
+  I'm heading for a **Frontend Engineering** 🪐 <br />
+ 
  <br /> 
   
-#### 🌿 Tech Stack 
+## 🌿 Tech Stack 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -24,7 +24,7 @@
 <br />
 <br />
   
-#### ⚒️ Tools 
+## ⚒️ Tools 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"> 
@@ -36,7 +36,7 @@
 <br />
 <br />  
   
-#### ⛄️ Contact to me 
+## ⛄️ Contact to me 
 <a href="https://velog.io/@haizel"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
 <a href="mailto:shyoeun5000@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-flat&logo=gmail&logoColor=white"/></a>  
   
