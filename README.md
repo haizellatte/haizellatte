@@ -17,9 +17,6 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/> 
-<br/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=fflat&logo=Tailwind CSS&logoColor=white"/> 
 
 <br />
 <br />
