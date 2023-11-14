@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Haizel's%20%20Playground✨&animation=twinkling&fontAlign=50&fontColor=fff&fontSize=70&fontAlignY=40)
 
-<div >
+<div>
   <h1> I'm heading for a Frontend Developer 🚀 </h1>  
   <br />
-  <img align="left" src="https://github.com/haizellatte/haizellatte/assets/115685195/9bad097f-c330-4177-b223-205c7c3702a8" height="500">
+  <img style="margin-left: 30px;" align="left" src="https://github.com/haizellatte/haizellatte/assets/115685195/9bad097f-c330-4177-b223-205c7c3702a8" height="420" width='350'>
 
  <br />
 
@@ -22,14 +22,10 @@
   <br />
   <br />
   <br />
-  <br />    
     
   ## 🪐 Contact to me 
   <a href="https://velog.io/@haizel"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
   <a href="mailto:shyoeun5000@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-flat&logo=gmail&logoColor=white"/></a>  
-  <br />  
-  <br />
-  <br />
 </div>
 
 <br /> 
