@@ -40,7 +40,8 @@
 <br /> 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=haizellatte&show_icons=true" height="170"> 
+<img src="https://github-readme-stats.vercel.app/api?username=haizellatte&show_icons=true" height="180"> 
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haizellatte&layout=compact&theme=white" height="180">
 </div>
   
