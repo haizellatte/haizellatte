@@ -5,7 +5,7 @@
 <div >
   <h1> I'm heading for a Frontend Developer 🚀 </h1>  
   <br />
-  <img align="left" src="https://github.com/haizellatte/haizellatte/assets/115685195/9bad097f-c330-4177-b223-205c7c3702a8" height="500">
+  <img align="left" src="https://github.com/haizellatte/haizellatte/assets/115685195/9bad097f-c330-4177-b223-205c7c3702a8" height="400">
 
  <br />
 
@@ -36,13 +36,11 @@
 <br /> 
 <br /> 
 <br /> 
-<br /> 
-<br /> 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=haizellatte&show_icons=true" height="180"> 
+<img src="https://github-readme-stats.vercel.app/api?username=haizellatte&show_icons=true" height="150"> 
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haizellatte&layout=compact&theme=white" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haizellatte&layout=compact&theme=white" height="150">
 </div>
   
 <br />  
