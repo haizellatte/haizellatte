@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Haizel's%20%20Playground✨&animation=twinkling&fontAlign=50&fontColor=fff&fontSize=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Haizel's%20%20Playground✨&animation=twinkling&fontAlign=50&fontColor=fff&fontSize=70&fontAlignY=40)
 
 <div>
   <h1> I'm heading for a Frontend Developer 🚀 </h1>  
@@ -46,5 +46,5 @@
 <br />
 <br />
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&animation=twinkling&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&section=footer)
 </div>
