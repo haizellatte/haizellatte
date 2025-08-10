@@ -3,7 +3,7 @@
 <!--  ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Haizel's%20%20Playground✨&animation=twinkling&fontAlign=50&fontColor=fff&fontSize=70&fontAlignY=40) -->
 <!--   <img style="margin-left: 30px;" align="left" src="https://github.com/haizellatte/haizellatte/assets/115685195/9bad097f-c330-4177-b223-205c7c3702a8" height="420" width='350'> -->
 
-<h2>👩🏻‍🚀 Tech Stack</h2>
+<h2>👩🏻‍💻 Tech Stack</h2>
 
 <table>
   <tr style="border-bottom: 1px solid #ccc;">
@@ -38,7 +38,7 @@
  <br />
  
     
-## 🪐 Contact to me 
+## 📬 Contact to me 
  <a href="https://velog.io/@haizel"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
  <a href="mailto:shyoeun5000@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-flat&logo=gmail&logoColor=white"/></a> 
  
